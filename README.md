@@ -6,7 +6,7 @@ The goal was to generate a handful of interactive plots and then use the plots t
 
 
 ##Files
-# Start Code
+# Starter Code
 This is the file with the resources needed to start the assignment. There are a handful of CSV files located in this folder. 
 
 # Soloution file - san_francisco_housing
